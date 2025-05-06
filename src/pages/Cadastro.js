@@ -67,7 +67,7 @@ export default function Cadastro({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Cadastro</Text>
+      <Text style={styles.title}>Cadastro de endereço</Text>
 
       <TextInput
         style={styles.input}
