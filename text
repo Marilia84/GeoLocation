@@ -1,0 +1,8 @@
+pacotes: 
+npx expo install expo-location
+npx expo installnpx  react-native-maps
+npx expo install expo-location
+
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npx expo install react-native-screens react-native-safe-area-context
